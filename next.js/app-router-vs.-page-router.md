@@ -4,11 +4,7 @@ description: >-
   그 차이점을 정리합니다.
 ---
 
-# Next.js의 App Router vs. Page Router
-
-최근 Next.js를 사용하면서 App Router와 Page Router를 모두 다뤄보게 되었습니다.
-
-두 가지 방식을 간단히 비교해보고 그 차이점을 알아보려 합니다.
+# App Router vs. Page Router
 
 ### 프로젝트 생성
 
