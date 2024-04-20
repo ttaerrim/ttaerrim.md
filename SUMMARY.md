@@ -5,3 +5,7 @@
 ## Next.js
 
 * [App Router vs. Page Router](next.js/app-router-vs.-page-router.md)
+
+## 🌐 Web
+
+* [브라우저의 렌더링 과정](web/undefined.md)
