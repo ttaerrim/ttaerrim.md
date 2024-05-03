@@ -9,3 +9,4 @@
 ## 🌐 Web
 
 * [브라우저의 렌더링 과정](web/undefined.md)
+* [이벤트 위임](web/undefined-1.md)
