@@ -8,9 +8,9 @@
 
 ## 🌐 Web
 
-* [브라우저의 렌더링 과정](web/undefined.md)
-* [이벤트 위임](web/undefined-1.md)
-* [쿠키 | 웹 스토리지 | 토큰 | 세션](web/or-or-or.md)
+* [브라우저의 렌더링 과정](web/browser-rendering.md)
+* [이벤트 위임](web/event-delegation.md)
+* [쿠키 | 웹 스토리지 | 토큰 | 세션](web/cookie-webstorage-token-session.md)
 
 ## JavaScript
 
