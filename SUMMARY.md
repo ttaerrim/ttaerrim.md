@@ -15,3 +15,7 @@
 ## JavaScript
 
 * [Prototype](javascript/prototype.md)
+
+## typescript
+
+* [satisfies 연산자](typescript/satisfies.md)
