@@ -19,3 +19,7 @@
 ## typescript
 
 * [satisfies 연산자](typescript/satisfies.md)
+
+## react
+
+* [리액트에서의 동등 비교](react/shallow-compare.md)
